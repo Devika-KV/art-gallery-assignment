@@ -1,4 +1,4 @@
-# art-gallery-assignment
+# art-gallery-project
 
 A simple art gallery website built with HTML, CSS, and Bootstrap.
 
